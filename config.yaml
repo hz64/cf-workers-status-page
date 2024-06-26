@@ -20,7 +20,7 @@ monitors:
     description: '现在全部交给hz6.us.kg域名' # default=empty
     url: 'https://hz64.github.io/' # URL to fetch
     method: GET # default=GET
-    expectStatus: 200 # operational status, default=200
+    expectStatus: 301 # operational status, default=200
     followRedirect: false # should fetch follow redirects, default=false
     linkable: false # allows the title to be a link, default=true
 
