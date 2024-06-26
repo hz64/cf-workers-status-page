@@ -43,3 +43,10 @@ monitors:
     url: 'https://xcxc.us.kg/'
     method: GET
     expectStatus: 200
+
+  - id: haduhaduahdlahduja.com
+    name: https://haduhaduahdlahduja.com/
+    url: 'https://haduhaduahdlahduja.com/'
+    method: GET
+    expectStatus: 200
+
