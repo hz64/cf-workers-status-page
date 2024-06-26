@@ -16,7 +16,7 @@ settings:
 
 monitors:
   - id: hz64.github.io # unique identifier
-    name: hz64.github.io(个人主页)
+    name: 个人主页
     description: '现在全部交给hz6.us.kg域名' # default=empty
     url: 'https://hz64.github.io/' # URL to fetch
     method: GET # default=GET
@@ -25,7 +25,7 @@ monitors:
     linkable: false # allows the title to be a link, default=true
 
   - id: hz6.us.kg
-    name: hz6.us.kg(全部服务)
+    name: 全部服务
     description: '全部服务在这里'
     url: 'https://hz6.us.kg/'
     method: GET
@@ -33,7 +33,7 @@ monitors:
     linkable: true # allows the title to be a link, default=true
 
   - id: blog.hz6.us.kg
-    name: blog.hz6.us.kg(博客)
+    name: 博客
     url: 'https://blog.hz6.us.kg/'
     method: GET
     expectStatus: 200
