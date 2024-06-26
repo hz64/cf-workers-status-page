@@ -33,7 +33,7 @@ monitors:
     linkable: true # allows the title to be a link, default=true
 
   - id: blog.hz6.us.kg
-    name: 博客
+    name: blog.hz6.us.kg - 博客
     url: 'https://blog.hz6.us.kg/'
     method: GET
     expectStatus: 200
